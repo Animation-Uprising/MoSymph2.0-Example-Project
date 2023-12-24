@@ -1,8 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.RiderGameControl.cpp.obj": [
-			"RiderGameControl.cpp.obj"
-		]
-	}
-}
