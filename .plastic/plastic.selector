@@ -1,0 +1,4 @@
+repository "MS2.0_ExampleProject@AnimationUprising@cloud"
+  path "/"
+    smartbranch "/main" changeset "62"                                                                                              
+     

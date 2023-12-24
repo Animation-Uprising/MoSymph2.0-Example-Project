@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\dev\\projects\\msexampleproject\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "g:\\dev\\projects\\msexampleproject\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\rd\\definitions.h",
+            "g:\\dev\\projects\\msexampleproject\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
